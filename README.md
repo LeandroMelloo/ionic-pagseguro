@@ -1,2 +1,2 @@
-# ionic_pagseguro
+# Projeto PagSeguro com Ionic
 Projeto PagSeguro com Ionic
